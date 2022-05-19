@@ -12,9 +12,13 @@ The Master branch currently represents the state of AGP 4.2.
 
 The agp-4.2 branch currently represents the state of AGP 4.2.
 
-The agp-7.0 branch currently represents the state of the latest AGP 7.0 beta
+The agp-7.0 branch currently represents the state of AGP 7.0 (Android Studio Artic Fox)
 
-The agp-7.1 branch currently represents the state of the latest AGP 7.1 alpha
+The agp-7.1 branch currently represents the state of AGP 7.1 (Android Studio Bumblebee)
+
+The agp-7.2 branch currently represents the state of AGP 7.2 (Android Studio Chimpmunk)
+
+The agp-7.3 branch currently represents the state of AGP 7.2 (Android Studio Dolphin)
 
 ## How to report issues? ##
 
